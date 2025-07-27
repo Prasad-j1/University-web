@@ -53,7 +53,7 @@ const Testimonials=()=>{
                                 <div className="info">
                                     <img src={user_1} alt="" />
                                     <div>
-                                        <h3>Rupali Chaudhary</h3>
+                                        <h3>eiily belish</h3>
                                         <span>Edusity, Jaipur</span>
                                     </div>
                                 </div>
