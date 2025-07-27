@@ -42,8 +42,8 @@ const Contact=()=>{
                 <h3>Send us a message <img src={msg_icon} alt="" /></h3>
                 <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our university community.</p>
                 <ul>
-                    <li><img src={mail_icon} />joshiprasad0709@gmail.com</li>
-                    <li><img src={phone_icon}  />+91 7620163166</li>
+                    <li><img src={mail_icon} />joshiprasad@gmail.com</li>
+                    <li><img src={phone_icon}  />+91 7620XXXXXX</li>
                     <li><img src={location_icon}  />Mumbai, Maharashtra India</li>
                 </ul>
             </div>
