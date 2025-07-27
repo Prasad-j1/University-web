@@ -1,0 +1,48 @@
+.about{
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.about-left{
+    flex-basis: 40%;
+    position: relative;
+}
+.about-right{
+    flex-basis: 56%;
+}
+
+.about-icon{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.about .play-icon{
+    position: absolute;
+    width: 60px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    cursor: pointer;    
+}
+
+.about h3{
+    color: #212ea0;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px
+}
+.about h2{
+    margin-top: 20px;
+    font-size: 35px;
+    max-width: 50%;
+    font-weight: 700;
+}
+
+.about-right p{
+    margin-top: 2%;
+    font-size: 20px;
+    color: #676767;
+}

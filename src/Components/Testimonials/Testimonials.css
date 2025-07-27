@@ -1,0 +1,80 @@
+.testimonials{
+    margin: 100px auto;
+    padding: 0px 80px;
+    position: relative;
+}
+
+.next-icon, .back-icon{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    background-color: red;
+    padding: 14px;
+    width: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: #212ea0;
+}
+
+.back-icon{
+    right: auto;
+    left: 0;
+}
+
+
+
+
+
+.slider {
+    overflow: hidden;
+}
+.slider ul{
+    display: flex;
+    width: 200%;
+    overflow-x: hidden;
+    transition: 1s;
+    cursor: pointer;
+}
+
+
+.slider ul li{
+    list-style: none;
+    width: 50%;
+    padding: 20px;
+}
+
+.slide{
+    box-shadow: 0 0 20px #0000000d;
+    padding: 40px;
+    border-radius: 20px;
+    color: #676767;
+    line-height: 1.4;
+    border: 1px solid black;
+}
+
+.slide img{
+    width: 65px;
+    background-color: #212EA0;
+    border-radius: 50%;
+    padding: 8px;
+    margin-right: 20px;
+}
+
+
+.info{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.info h3{
+    color: #212EA0;
+}
+
+.slide p{
+    font-size: 18px;
+    font-weight: 500;
+    color: #676767;
+}

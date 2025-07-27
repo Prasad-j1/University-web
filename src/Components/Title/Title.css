@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    font-size: 23px;
+    margin: 4%;
+}
+
+.title p{
+    color: #212ea0;
+    text-transform: uppercase;
+    font-weight: 600;
+}
