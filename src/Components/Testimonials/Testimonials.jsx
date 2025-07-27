@@ -73,7 +73,7 @@ const Testimonials=()=>{
                                 <div className="info">
                                     <img src={user_2} alt="" />
                                     <div>
-                                        <h3>Omkar Ahire</h3>
+                                        <h3>Honey Roy</h3>
                                         <span>Edusity, Pune</span>
                                     </div>
                                 </div>
@@ -94,7 +94,7 @@ const Testimonials=()=>{
                                 <div className="info">
                                     <img src={user_3} alt="" />
                                     <div>
-                                        <h3>Sukanya Marathe</h3>
+                                        <h3>Charlotte Bennett</h3>
                                         <span>Edusity, Delhi</span>
                                     </div>
                                 </div>
